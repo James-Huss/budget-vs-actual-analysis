@@ -1,0 +1,229 @@
+Month,Department,Category,Budget Amount,Actual Amount,Variance,Variance %
+Jan,Marketing,Digital Ads,14355,14417,62,0.43
+Jan,Marketing,Sponsorships,11003,12665,1662,15.1
+Jan,Marketing,Influencer Partnerships,8094,7790,-304,-3.7600000000000002
+Jan,Marketing,Events & Pop-ups,6318,6537,219,3.47
+Jan,Sales,Sales Commissions,7362,8344,982,13.34
+Jan,Sales,CRM Software,3776,3739,-37,-0.98
+Jan,Sales,Training & Development,2563,2860,297,11.59
+Jan,Operations,Warehousing,9773,12878,3105,31.77
+Jan,Operations,Shipping,9724,9762,38,0.38999999999999996
+Jan,Operations,Manufacturing Support,7023,7498,475,6.76
+Jan,Operations,Utilities,4720,4754,34,0.72
+Jan,Product Development,R&D Materials,8173,8449,276,3.38
+Jan,Product Development,Prototyping,4004,4688,684,17.080000000000002
+Jan,Product Development,Lab Testing,3576,3816,240,6.710000000000001
+Jan,Product Development,Product Innovation,7514,8775,1261,16.78
+Jan,Administration,Office Supplies,1287,1305,18,1.4000000000000001
+Jan,Administration,HR & Legal,3622,3354,-268,-7.3999999999999995
+Jan,Administration,Software Licenses,2783,2965,182,6.54
+Jan,Administration,Insurance,1039,1077,38,3.66
+Feb,Marketing,Digital Ads,10835,11070,235,2.17
+Feb,Marketing,Sponsorships,10095,10858,763,7.5600000000000005
+Feb,Marketing,Influencer Partnerships,7920,9082,1162,14.67
+Feb,Marketing,Events & Pop-ups,7103,7595,492,6.93
+Feb,Sales,Sales Commissions,6798,7165,367,5.4
+Feb,Sales,CRM Software,2197,1944,-253,-11.52
+Feb,Sales,Training & Development,1825,2136,311,17.04
+Feb,Operations,Warehousing,11072,13243,2171,19.61
+Feb,Operations,Shipping,7703,9583,1880,24.41
+Feb,Operations,Manufacturing Support,8003,8080,77,0.96
+Feb,Operations,Utilities,3649,3401,-248,-6.800000000000001
+Feb,Product Development,R&D Materials,8928,10213,1285,14.39
+Feb,Product Development,Prototyping,5268,5610,342,6.49
+Feb,Product Development,Lab Testing,4273,4107,-166,-3.88
+Feb,Product Development,Product Innovation,6413,7009,596,9.29
+Feb,Administration,Office Supplies,1399,1436,37,2.64
+Feb,Administration,HR & Legal,2027,1911,-116,-5.72
+Feb,Administration,Software Licenses,2124,1987,-137,-6.45
+Feb,Administration,Insurance,1565,1346,-219,-13.99
+Mar,Marketing,Digital Ads,11337,11950,613,5.41
+Mar,Marketing,Sponsorships,10522,9106,-1416,-13.459999999999999
+Mar,Marketing,Influencer Partnerships,7983,9104,1121,14.04
+Mar,Marketing,Events & Pop-ups,5453,5303,-150,-2.75
+Mar,Sales,Sales Commissions,6095,5951,-144,-2.36
+Mar,Sales,CRM Software,3965,4510,545,13.750000000000002
+Mar,Sales,Training & Development,1250,1318,68,5.4399999999999995
+Mar,Operations,Warehousing,11706,13179,1473,12.58
+Mar,Operations,Shipping,9085,10317,1232,13.56
+Mar,Operations,Manufacturing Support,6949,7791,842,12.120000000000001
+Mar,Operations,Utilities,4574,5189,615,13.450000000000001
+Mar,Product Development,R&D Materials,7625,7109,-516,-6.77
+Mar,Product Development,Prototyping,5694,5882,188,3.3000000000000003
+Mar,Product Development,Lab Testing,4493,4763,270,6.01
+Mar,Product Development,Product Innovation,7097,7260,163,2.3
+Mar,Administration,Office Supplies,1680,1962,282,16.79
+Mar,Administration,HR & Legal,2308,2587,279,12.09
+Mar,Administration,Software Licenses,2982,3117,135,4.53
+Mar,Administration,Insurance,2228,2495,267,11.98
+Apr,Marketing,Digital Ads,10731,11846,1115,10.39
+Apr,Marketing,Sponsorships,9258,10247,989,10.68
+Apr,Marketing,Influencer Partnerships,9227,8903,-324,-3.51
+Apr,Marketing,Events & Pop-ups,6047,6684,637,10.530000000000001
+Apr,Sales,Sales Commissions,8037,8214,177,2.1999999999999997
+Apr,Sales,CRM Software,2185,2166,-19,-0.8699999999999999
+Apr,Sales,Training & Development,2816,3360,544,19.32
+Apr,Operations,Warehousing,11175,12912,1737,15.540000000000001
+Apr,Operations,Shipping,7991,8639,648,8.110000000000001
+Apr,Operations,Manufacturing Support,7265,8890,1625,22.37
+Apr,Operations,Utilities,4579,4736,157,3.4299999999999997
+Apr,Product Development,R&D Materials,8469,8133,-336,-3.9699999999999998
+Apr,Product Development,Prototyping,6586,6881,295,4.4799999999999995
+Apr,Product Development,Lab Testing,4503,5003,500,11.1
+Apr,Product Development,Product Innovation,7930,9064,1134,14.299999999999999
+Apr,Administration,Office Supplies,1579,1638,59,3.74
+Apr,Administration,HR & Legal,2669,3078,409,15.32
+Apr,Administration,Software Licenses,1826,1782,-44,-2.41
+Apr,Administration,Insurance,2427,2365,-62,-2.55
+May,Marketing,Digital Ads,12096,13868,1772,14.649999999999999
+May,Marketing,Sponsorships,10957,11930,973,8.88
+May,Marketing,Influencer Partnerships,7561,8962,1401,18.529999999999998
+May,Marketing,Events & Pop-ups,5344,5912,568,10.63
+May,Sales,Sales Commissions,6074,6916,842,13.86
+May,Sales,CRM Software,3488,3744,256,7.340000000000001
+May,Sales,Training & Development,1712,1901,189,11.04
+May,Operations,Warehousing,8396,8402,6,0.06999999999999999
+May,Operations,Shipping,8049,7481,-568,-7.06
+May,Operations,Manufacturing Support,7969,8170,201,2.52
+May,Operations,Utilities,3066,2941,-125,-4.08
+May,Product Development,R&D Materials,8211,8904,693,8.44
+May,Product Development,Prototyping,6111,6270,159,2.6
+May,Product Development,Lab Testing,3428,4008,580,16.919999999999998
+May,Product Development,Product Innovation,6320,6043,-277,-4.38
+May,Administration,Office Supplies,1504,1577,73,4.8500000000000005
+May,Administration,HR & Legal,2987,3322,335,11.219999999999999
+May,Administration,Software Licenses,2180,2100,-80,-3.6700000000000004
+May,Administration,Insurance,2299,2511,212,9.22
+Jun,Marketing,Digital Ads,10130,8951,-1179,-11.64
+Jun,Marketing,Sponsorships,10556,12069,1513,14.330000000000002
+Jun,Marketing,Influencer Partnerships,7907,8963,1056,13.36
+Jun,Marketing,Events & Pop-ups,8160,7518,-642,-7.870000000000001
+Jun,Sales,Sales Commissions,7246,7203,-43,-0.59
+Jun,Sales,CRM Software,3330,3351,21,0.63
+Jun,Sales,Training & Development,2007,2266,259,12.9
+Jun,Operations,Warehousing,10261,12301,2040,19.88
+Jun,Operations,Shipping,8958,8812,-146,-1.63
+Jun,Operations,Manufacturing Support,7597,7302,-295,-3.88
+Jun,Operations,Utilities,3263,2644,-619,-18.970000000000002
+Jun,Product Development,R&D Materials,7571,8489,918,12.13
+Jun,Product Development,Prototyping,5833,6478,645,11.06
+Jun,Product Development,Lab Testing,3897,4014,117,3.0
+Jun,Product Development,Product Innovation,5078,5820,742,14.610000000000001
+Jun,Administration,Office Supplies,1954,2100,146,7.470000000000001
+Jun,Administration,HR & Legal,3585,4046,461,12.86
+Jun,Administration,Software Licenses,2785,2867,82,2.94
+Jun,Administration,Insurance,2252,2115,-137,-6.08
+Jul,Marketing,Digital Ads,12424,11425,-999,-8.04
+Jul,Marketing,Sponsorships,8963,8486,-477,-5.319999999999999
+Jul,Marketing,Influencer Partnerships,7456,6616,-840,-11.27
+Jul,Marketing,Events & Pop-ups,5447,6684,1237,22.71
+Jul,Sales,Sales Commissions,7381,7378,-3,-0.04
+Jul,Sales,CRM Software,2989,2650,-339,-11.34
+Jul,Sales,Training & Development,2805,2938,133,4.74
+Jul,Operations,Warehousing,8504,6936,-1568,-18.44
+Jul,Operations,Shipping,8615,6908,-1707,-19.81
+Jul,Operations,Manufacturing Support,7350,7022,-328,-4.46
+Jul,Operations,Utilities,4856,5115,259,5.33
+Jul,Product Development,R&D Materials,8663,8709,46,0.53
+Jul,Product Development,Prototyping,6097,6686,589,9.66
+Jul,Product Development,Lab Testing,3126,3340,214,6.8500000000000005
+Jul,Product Development,Product Innovation,5487,5909,422,7.6899999999999995
+Jul,Administration,Office Supplies,1881,1881,0,0.0
+Jul,Administration,HR & Legal,2090,2060,-30,-1.44
+Jul,Administration,Software Licenses,2161,2244,83,3.84
+Jul,Administration,Insurance,2119,2122,3,0.13999999999999999
+Aug,Marketing,Digital Ads,14352,15926,1574,10.97
+Aug,Marketing,Sponsorships,11130,11391,261,2.35
+Aug,Marketing,Influencer Partnerships,7319,9115,1796,24.54
+Aug,Marketing,Events & Pop-ups,5877,6394,517,8.799999999999999
+Aug,Sales,Sales Commissions,8460,8388,-72,-0.8500000000000001
+Aug,Sales,CRM Software,3662,3782,120,3.2800000000000002
+Aug,Sales,Training & Development,1145,1053,-92,-8.03
+Aug,Operations,Warehousing,10827,11030,203,1.87
+Aug,Operations,Shipping,8733,9976,1243,14.23
+Aug,Operations,Manufacturing Support,8342,8473,131,1.5699999999999998
+Aug,Operations,Utilities,4842,5160,318,6.569999999999999
+Aug,Product Development,R&D Materials,9572,8462,-1110,-11.600000000000001
+Aug,Product Development,Prototyping,4911,4473,-438,-8.92
+Aug,Product Development,Lab Testing,4995,4946,-49,-0.98
+Aug,Product Development,Product Innovation,7180,7491,311,4.33
+Aug,Administration,Office Supplies,1345,1273,-72,-5.35
+Aug,Administration,HR & Legal,2698,2395,-303,-11.23
+Aug,Administration,Software Licenses,1630,1819,189,11.600000000000001
+Aug,Administration,Insurance,1530,1801,271,17.71
+Sep,Marketing,Digital Ads,11178,11288,110,0.98
+Sep,Marketing,Sponsorships,8774,8520,-254,-2.8899999999999997
+Sep,Marketing,Influencer Partnerships,9332,9700,368,3.94
+Sep,Marketing,Events & Pop-ups,5386,5218,-168,-3.1199999999999997
+Sep,Sales,Sales Commissions,6950,8129,1179,16.96
+Sep,Sales,CRM Software,3540,4011,471,13.309999999999999
+Sep,Sales,Training & Development,1281,1406,125,9.76
+Sep,Operations,Warehousing,10554,11967,1413,13.389999999999999
+Sep,Operations,Shipping,9475,9420,-55,-0.58
+Sep,Operations,Manufacturing Support,6921,7384,463,6.69
+Sep,Operations,Utilities,4558,5875,1317,28.89
+Sep,Product Development,R&D Materials,8637,9230,593,6.87
+Sep,Product Development,Prototyping,5984,6733,749,12.520000000000001
+Sep,Product Development,Lab Testing,3494,3416,-78,-2.23
+Sep,Product Development,Product Innovation,5707,6286,579,10.15
+Sep,Administration,Office Supplies,1502,1791,289,19.24
+Sep,Administration,HR & Legal,2534,2585,51,2.01
+Sep,Administration,Software Licenses,2643,2688,45,1.7000000000000002
+Sep,Administration,Insurance,1589,1509,-80,-5.029999999999999
+Oct,Marketing,Digital Ads,13458,15056,1598,11.87
+Oct,Marketing,Sponsorships,9870,12497,2627,26.619999999999997
+Oct,Marketing,Influencer Partnerships,8527,9514,987,11.57
+Oct,Marketing,Events & Pop-ups,5241,5729,488,9.31
+Oct,Sales,Sales Commissions,6282,6596,314,5.0
+Oct,Sales,CRM Software,3844,3996,152,3.95
+Oct,Sales,Training & Development,2802,3014,212,7.57
+Oct,Operations,Warehousing,9969,9542,-427,-4.279999999999999
+Oct,Operations,Shipping,8396,9334,938,11.17
+Oct,Operations,Manufacturing Support,8006,10062,2056,25.679999999999996
+Oct,Operations,Utilities,4622,4865,243,5.26
+Oct,Product Development,R&D Materials,8039,8180,141,1.7500000000000002
+Oct,Product Development,Prototyping,4639,4523,-116,-2.5
+Oct,Product Development,Lab Testing,4337,5187,850,19.6
+Oct,Product Development,Product Innovation,6770,5491,-1279,-18.89
+Oct,Administration,Office Supplies,1825,1720,-105,-5.75
+Oct,Administration,HR & Legal,2087,2338,251,12.030000000000001
+Oct,Administration,Software Licenses,2164,2392,228,10.54
+Oct,Administration,Insurance,1656,1857,201,12.139999999999999
+Nov,Marketing,Digital Ads,14142,15218,1076,7.61
+Nov,Marketing,Sponsorships,8156,8468,312,3.83
+Nov,Marketing,Influencer Partnerships,7327,7952,625,8.53
+Nov,Marketing,Events & Pop-ups,8086,8395,309,3.82
+Nov,Sales,Sales Commissions,7564,8852,1288,17.03
+Nov,Sales,CRM Software,2158,2451,293,13.58
+Nov,Sales,Training & Development,2751,2950,199,7.23
+Nov,Operations,Warehousing,10942,11072,130,1.1900000000000002
+Nov,Operations,Shipping,7455,8617,1162,15.590000000000002
+Nov,Operations,Manufacturing Support,8700,9224,524,6.02
+Nov,Operations,Utilities,4768,5045,277,5.81
+Nov,Product Development,R&D Materials,8431,9707,1276,15.129999999999999
+Nov,Product Development,Prototyping,4301,4147,-154,-3.58
+Nov,Product Development,Lab Testing,3441,4121,680,19.759999999999998
+Nov,Product Development,Product Innovation,6458,7016,558,8.64
+Nov,Administration,Office Supplies,1748,2129,381,21.8
+Nov,Administration,HR & Legal,3338,4365,1027,30.769999999999996
+Nov,Administration,Software Licenses,2758,2917,159,5.7700000000000005
+Nov,Administration,Insurance,2004,1748,-256,-12.770000000000001
+Dec,Marketing,Digital Ads,13589,13452,-137,-1.01
+Dec,Marketing,Sponsorships,9973,9791,-182,-1.82
+Dec,Marketing,Influencer Partnerships,7351,7688,337,4.58
+Dec,Marketing,Events & Pop-ups,6403,7180,777,12.13
+Dec,Sales,Sales Commissions,8364,10757,2393,28.610000000000003
+Dec,Sales,CRM Software,3186,3560,374,11.74
+Dec,Sales,Training & Development,2868,3054,186,6.49
+Dec,Operations,Warehousing,9707,9013,-694,-7.1499999999999995
+Dec,Operations,Shipping,8294,9241,947,11.42
+Dec,Operations,Manufacturing Support,8465,10358,1893,22.36
+Dec,Operations,Utilities,4201,5010,809,19.259999999999998
+Dec,Product Development,R&D Materials,7103,7615,512,7.21
+Dec,Product Development,Prototyping,4638,5544,906,19.53
+Dec,Product Development,Lab Testing,4686,4940,254,5.42
+Dec,Product Development,Product Innovation,6242,5700,-542,-8.68
+Dec,Administration,Office Supplies,1376,1293,-83,-6.03
+Dec,Administration,HR & Legal,3019,3539,520,17.22
+Dec,Administration,Software Licenses,1932,2282,350,18.12
+Dec,Administration,Insurance,2429,2655,226,9.3
